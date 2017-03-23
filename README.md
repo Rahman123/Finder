@@ -1,4 +1,4 @@
-***Chatter Groups Slider***
+***Lightning Component: Finder***
 
 [AppExchange Listing](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000000q9IJEAY)
 
