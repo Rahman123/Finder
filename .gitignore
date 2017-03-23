@@ -1,0 +1,5 @@
+*.sublime*
+*.DS_Stor
+config/
+metadata/
+*.manifest
